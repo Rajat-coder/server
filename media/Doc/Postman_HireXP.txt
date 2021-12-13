@@ -1,3 +1,0 @@
-user_name  = tushar.s@internal.hirexp.com
-user_id    = e45ce3eb-66b3-4723-84f2-fcfdabc4f75b
-company_id = 7cbd9457-b3d9-478f-8142-6715c767cbb6
